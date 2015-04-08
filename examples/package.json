@@ -1,0 +1,15 @@
+{
+  "name": "nwFiledrive",
+  "main": "app://nwFiledrive/index.html",
+  "scripts": {
+    "start": "nw"
+  },
+  "window": {
+    "title": "NWFiledrive app",
+    "toolbar": true,
+    "frame": true
+  },
+  "dependencies": {
+    "nw": "^0.12.0-1"
+  }
+}

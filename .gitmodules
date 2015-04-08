@@ -1,0 +1,3 @@
+[submodule "examples/lib/angular-filedrive"]
+	path = examples/lib/angular-filedrive
+	url = https://github.com/jstroem/angular-filedrive.git
